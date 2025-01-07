@@ -15,6 +15,7 @@ To identify key drivers of employee attrition and provide data-driven recommenda
 **4.	Key Metrics:** Displays attrition rate (16.1%), average salary (6.5K), average age (37), and average years of tenure (7).
 
 
+
 ![image](https://github.com/user-attachments/assets/778d05c4-7909-40d3-b325-62725e1ffe7f)
 
 
