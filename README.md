@@ -7,6 +7,9 @@ To identify key drivers of employee attrition and provide data-driven recommenda
 
 ## Project Highlights
 **1.	Comprehensive Analysis:** Provides a detailed view of overall workforce attrition for 1470 employees, with 237 cases of attrition.
+
 **2.	Segmentation:** Analyzes attrition across dimensions like age, salary, job roles, education, tenure, and gender.
+
 **3.	Visualizations:** Interactive charts (bar, pie, and trendline) allow easy identification of high-risk segments and trends.
+
 **4.	Key Metrics:** Displays attrition rate (16.1%), average salary (6.5K), average age (37), and average years of tenure (7).
