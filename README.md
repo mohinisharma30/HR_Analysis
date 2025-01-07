@@ -31,19 +31,23 @@ To identify key drivers of employee attrition and provide data-driven recommenda
 
 **5.	Education:** Employees from Life Sciences (38%) and Medical (27%) backgrounds exhibit higher attrition.
 
-## Recommendations:
+## Recommendations:-
 **1.	Retention Strategies:**
+
 o	Focus on career development and work-life balance initiatives for the 26-35 age group.
 
 o	Introduce targeted training and engagement programs for Laboratory Technicians and Sales Executives.
 
 **2.	Compensation Adjustments:**
+
 o	Review and enhance pay scales for employees earning below 5K to improve satisfaction and retention.
 
 **3.	Early Engagement:**
+
 o	Strengthen onboarding processes and implement mentorship programs to address first-year attrition.
 
 **4.	Targeted Development:**
+
 o	Provide specialized career opportunities and projects for employees with Life Sciences and Medical backgrounds.
 
 
